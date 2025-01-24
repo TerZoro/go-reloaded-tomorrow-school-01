@@ -64,8 +64,8 @@ The **Go-Reloaded** is a Go-based application that processes text files to apply
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/TerZoro/go-reloaded.git
-   cd go-reloaded
+   https://github.com/TerZoro/go-reloaded-tomorrow-school-01.git
+   cd go-reloaded-tomorrow-school-01
    ```
 
 ## Usage
